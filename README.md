@@ -1,4 +1,4 @@
-# 💬 Hola – Real-Time Full-Stack Chat App
+# 💬 BaatChit – Real-Time Full-Stack Chat App
 
 **Hola** is a modern, full-stack real-time chat application with secure authentication, responsive UI, and persistent message storage. Built with the MERN stack and powered by Socket.IO for seamless communication.
 
